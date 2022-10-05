@@ -1,1 +1,1 @@
- ls : Display the contents of your current directory.
+ cd : Write a script that changes the working directory to the users home directory.
