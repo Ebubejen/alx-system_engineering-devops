@@ -1,1 +1,1 @@
-file /tmp/immafile : Write a script that prints the type of the file named iamafile. the file iamafile will be in the /tmp/ directory when you run the script.
+ln -s /bin/ls _ls_ : Create a symbolic link to /bin/ls. the symbol link should be created in the current working directory.
