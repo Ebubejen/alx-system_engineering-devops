@@ -1,1 +1,1 @@
-ls -al . .. /boot :Write a script that leaves all files (even ones beginning with a period character, which are normally hidden) in the current directory and the /boot directory (in this order), in long format.
+file /tmp/immafile : Write a script that prints the type of the file named iamafile. the file iamafile will be in the /tmp/ directory when you run the script.
