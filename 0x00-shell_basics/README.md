@@ -1,1 +1,1 @@
-rm /tmp/my_first_directory/betty : Delete the file betty. The file betty is in t/tmp/my_first_directory.
+rm -rf /tmp/my_first_directory : Delete the directory my_first_directory that is in the /tmp/ directory.
